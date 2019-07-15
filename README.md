@@ -1,5 +1,5 @@
 # FunAlysis
-Simple and effective method to do fundamental analysis of stocks.
+Simple and effective method to do fundamental analysis of stocks*
 ___
 
 **The Golden Rule:** _Pick the stock which is currently undervalued and has good future upside potential._
@@ -45,3 +45,7 @@ Select any sector in which you would like invest.
 - Book value is nothing but the shareholders worth in the company.
 - price to book value usually means the price an investor has to pay for 1 rupee worth in the company.
 - Lower the better, just like the PE.
+
+___
+
+*This is my personal fundamental analysis method. I won't be responsible for any profit / loss.
