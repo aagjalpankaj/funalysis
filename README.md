@@ -4,6 +4,8 @@ ___
 
 **The Golden Rule:** _Pick the stock which is currently undervalued and has good future upside potential._
 
+___
+
 ## Select a sector.
 Select any sector in which you would like invest.
 
