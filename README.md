@@ -6,7 +6,7 @@ ___
 
 ___
 
-## Select a sector.
+## Select a sector
 Select any sector in which you would like to invest.
 
 ## The five parameters
