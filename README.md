@@ -7,13 +7,13 @@ ___
 ___
 
 ## Select a sector.
-Select any sector in which you would like invest.
+Select any sector in which you would like to invest.
 
-## The six parameters:
+## The six parameters
 ( Try to look at consolidated figures rather than standalone figures. )
 
 ### 1. P/E
-- P/E ratio should be less than Industry P/E
+- P/E ratio should be less than Industry P/E.
 - Lower the better.
 
 ### 2. 52W High Low
