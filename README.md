@@ -50,4 +50,4 @@ Select any sector in which you would like to invest.
 
 ___
 
-*This is my personal fundamental analysis method. I won't be responsible for any profit / loss.
+* Stock market investments are subject to market risks. This is my personal fundamental analysis method. I won't be responsible for any profit / loss.
