@@ -1,4 +1,4 @@
-# FunAlysis
+# Funalysis | Fundamental Analysis
 Simple and effective method to do fundamental analysis of stocks*
 ___
 
@@ -10,13 +10,13 @@ ___
 Select any sector in which you would like to invest.
 
 ## The five parameters
-( Try to look at consolidated figures rather than standalone figures. )
+( Try to look at consolidated figures rather than the standalone figures. )
 
 ### 1. P/E
-- P/E ratio should be less than Industry P/E.
+- P/E ratio should be less than the Industry P/E.
 - Lower the better.
 
-### 2. 52W High Low
+### 2. 52 Week High / Low
 - The 52 week low and high usually acts as a support and resistance.
 - There would have been some negative news about the stock which causes its price to fall and make a new low.
 - Vice versa for its 52 week high which most probably could be due to some positive news.
@@ -25,7 +25,7 @@ Select any sector in which you would like to invest.
 - Exit fully when stock is trading 20% below its 52w High.
 
 
-### 3. ROE
+### 3. ROE and ROCE
 - Return on Equity: Return earned by the company on the capital contributed by equity shareholders alone.
 - Higher the better.
 - This also gives an idea about how well is the money of equity shareholder is utilized by the company. 
